@@ -1,0 +1,30 @@
+company,website,industry,employees,region,hiring,funding_stage,tech_stack,email_present,linkedin,Score,Category,Insight
+DataZoom,datazoom.com,SaaS,120,US,True,Series A,Python;AWS;Postgres,yes,https://www.linkedin.com/company/datazoom,98,Hot,Funding: Series A | Active hiring | Cloud-based (AWS)
+DeepSight,deepsight.ai,AI,72,EU,True,Series A,Python;PyTorch;GCP,yes,https://www.linkedin.com/company/deepsight,98,Hot,Funding: Series A | Active hiring | AI/ML capabilities
+SecureBank,securebank.com,Fintech,900,US,True,Series D,Java;Kubernetes,yes,https://www.linkedin.com/company/securebank,98,Hot,Funding: Series D | Active hiring | Enterprise-sized (>=200 employees)
+MarketGaze,marketgaze.io,SaaS,85,US,True,Series A,Python;React;AWS,yes,https://www.linkedin.com/company/marketgaze,98,Hot,Funding: Series A | Active hiring | Cloud-based (AWS)
+QuantumLeap,quantumleap.ai,AI,45,US,True,Series A,Python;TensorFlow;AWS,yes,https://www.linkedin.com/company/quantumleap,98,Hot,Funding: Series A | Active hiring | Cloud-based (AWS) | AI/ML capabilities
+AgileSoft,agilesoft.dev,SaaS,320,US,True,Series B,Java;AWS;MySQL,yes,https://www.linkedin.com/company/agilesoft,98,Hot,Funding: Series B | Active hiring | Cloud-based (AWS) | Enterprise-sized (>=200 employees)
+CloudMint,cloudmint.io,SaaS,28,EU,True,Seed,Python;AWS,yes,https://www.linkedin.com/company/cloudmint,96,Hot,Funding: Seed | Active hiring | Cloud-based (AWS)
+FinServe,finserve.io,Fintech,250,UK,True,Series B,Java;AWS;Kafka,yes,https://www.linkedin.com/company/finserve,91,Hot,Funding: Series B | Active hiring | Cloud-based (AWS) | Enterprise-sized (>=200 employees)
+EduSpark,eduspark.edu,EdTech,40,US,True,,Python;GCP,yes,https://www.linkedin.com/company/eduspark,88,Hot,Active hiring
+NanoMed,nanomed.health,HealthTech,200,US,False,Series B,Java;Postgres,yes,,78,Warm,Funding: Series B
+MediCore,medicore.com,HealthTech,220,EU,False,Series A,Python;Postgres,yes,https://www.linkedin.com/company/medicore,75,Warm,Funding: Series A | Enterprise-sized (>=200 employees)
+Adverto,adverto.com,Marketing,95,US,True,Series A,React;NodeJS,yes,https://www.linkedin.com/company/adverto,68,Warm,Funding: Series A | Active hiring
+TravelNest,travelnest.co,Travel,55,EU,True,Seed,Python;Django,yes,https://www.linkedin.com/company/travelnest,66,Warm,Funding: Seed | Active hiring
+TutorFast,tutorfast.edu,EdTech,35,IN,False,Seed,Python;Django,yes,,64,Warm,Funding: Seed
+Healthly,healthly.co,HealthTech,60,US,False,Seed,Ruby;Heroku,yes,https://www.linkedin.com/company/healthly,63,Warm,Funding: Seed
+BlueOcean,blueocean.travel,Travel,140,US,False,Series C,Java;Oracle,yes,,63,Warm,Funding: Series C
+GreenEnergy,greenenergy.co.uk,Energy,400,UK,True,Series C,Go;Kubernetes,yes,https://www.linkedin.com/company/greenenergy,63,Warm,Funding: Series C | Active hiring | Enterprise-sized (>=200 employees)
+ShopEase,shopease.com,Retail,230,US,True,Series B,PHP;MySQL;Redis,yes,https://www.linkedin.com/company/shopease,60,Warm,Funding: Series B | Active hiring | Enterprise-sized (>=200 employees)
+CleanCity,cleancity.org,GovTech,70,US,False,,Python;Azure,yes,,53,Warm,No strong signals
+RetailPulse,retailpulse.com,Retail,90,US,False,Seed,NodeJS;MongoDB,yes,,51,Warm,Funding: Seed
+Foodify,foodify.in,FoodTech,12,IN,True,Seed,NodeJS;MongoDB,no,,44,Cold,Funding: Seed | Active hiring | No public email — harder to reach
+Eventify,eventify.co,Events,8,US,True,Seed,Ruby;Postgres,no,,43,Cold,Funding: Seed | Active hiring | No public email — harder to reach
+NanoTech,nanotech.co.uk,Manufacturing,180,UK,False,,C#;Azure,yes,,38,Cold,No strong signals
+SecureHome,securehome.tech,IoT,15,US,False,,C++;Embedded,no,,20,Cold,No public email — harder to reach
+BuildPro,buildpro.co,Construction,300,IN,False,,SAP;Oracle,no,,15,Cold,Enterprise-sized (>=200 employees) | No public email — harder to reach
+LogiChain,logichain.com,Logistics,30,IN,False,,PHP;Redis,no,,13,Cold,No public email — harder to reach
+FarmLink,farmlink.in,AgriTech,22,IN,False,,PHP;MySQL,no,,13,Cold,No public email — harder to reach
+LocalBites,localbites.in,FoodTech,10,IN,False,,WordPress;PHP,no,,13,Cold,No public email — harder to reach
+AgroMart,agromart.in,Retail,18,IN,False,,PHP;MySQL,no,,13,Cold,No public email — harder to reach
