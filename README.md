@@ -50,29 +50,29 @@ Output	Downloadable CSV or Excel
 
 3. Fetches or simulates company data:
 
-Industry, size, country, hiring keywords, tech stack.
+        Industry, size, country, hiring keywords, tech stack.
 
 
 
 4. Calculates Lead Score using weighted formula:
 
-score = 0.3 * industry_match + 0.25 * growth_signal + 
+        score = 0.3 * industry_match + 0.25 * growth_signal + 
         0.2 * tech_fit + 0.15 * region_match + 
         0.1 * contact_info
 
 
 5. Displays sorted leads with tags:
 
-🔥 Hot (score > 80)
+           🔥 Hot (score > 80)
 
-🌡 Warm (50–80)
+           🌡 Warm (50–80)
 
-❄ Cold (<50)
+            ❄ Cold (<50)
 
 
 
 6. Generates short insights for top leads:
 
-“Recently expanded operations”
+        “Recently expanded operations”
 
-“Uses competitor’s tech — switch potential”
+        “Uses competitor’s tech — switch potential”
